@@ -1,3 +1,5 @@
+## Load the projects from [here](https://turbowarp.org/editor?extension=https://mikedev101.github.io/cloudlink/B3-0.js). Turbowarp offers better compatibility for things like these.
+
 # cloudlink-multithread-example
 Multi threading for things like data centers or servers or anything.
 
